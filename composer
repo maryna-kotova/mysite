@@ -1,0 +1,9 @@
+
+
+composer require laravel/ui
+
+php artisan vendor:publish --tag=laravel-pagination
+
+php artisan ui bootstrap
+
+php artisan ui bootstrap --auth
